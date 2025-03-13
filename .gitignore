@@ -1,0 +1,24 @@
+*.swp
+*~
+
+# idea
+*.iml
+.idea/
+out/
+
+# vscode
+.vscode/
+__debug_bin
+
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+
+# Added by cargo
+
+/target
