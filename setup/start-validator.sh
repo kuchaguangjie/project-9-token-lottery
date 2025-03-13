@@ -1,12 +1,14 @@
 solana-test-validator -r \
-    --account 3DNK48NH6jvay2nHBiW3wk5yWegD9C2crk2vd9aznRz6 oracle7.json \
-    --account 7EyXLrFUtoRoYKhPBnRpjyo2nGTsfGgo2d7XcPb4TwPF oracle6.json \
-    --account 2RN1v42zWzzKhLty3Dgen1vbRc4eBsE8PCHanvaSLwJc oracle5.json \
-    --account CXyurDdbo9JR5Xh9QuknMJSsuGM3aQdsa38ZVrKSjp1c oracle4.json \
-    --account GLc9EQ5ARgnBJvM59wU6eNjaeAEeBa1Gj7jp8rT5NJ8v oracle3.json \
-    --account 8Vjo4QEbmB9QhhBu6QiTy66G1tw8WomtFVWECMi3a71y oracle2.json \
-    --account BuZBFufhjGn1HDUCukJYognbeoQQW8ACZJq5sWoQPnGe oracle1.json \
-    --account GcNZRMqGSEyEULZnLDD3ParcHTgFBrNfUdUCDtThP55e oracle0.json \
+    --account H6sA5hiCJkUHM6xGabpg5qGQXNqUgAT7S6FDapqfVEqx oracle9.json \
+    --account B6myYsSNLmdbQxwXVhBQZsjbSVLRtoRhYF3hMFeRyftF oracle8.json \
+    --account CdAPHuaduAH4NmxC8AvCqWuiQ1LduTrawnFBJKBdjPy4 oracle7.json \
+    --account 31Uys8oYqNAiRUKR9i24qLaG5ninMFuXckpkfV3FaPDp oracle6.json \
+    --account 5LD5BjwuNN397r4xDubXhhdxX3SSx9wS4ub33J64pjfW oracle5.json \
+    --account Bcup5msLa9wK6FxnSCZDQ6CGBuoAD6Wm78Epgi3KwGzV oracle4.json \
+    --account 5wCwgqgPtFB9jwjZxLVkM717SGaZKmXXpvXYsyLehu69 oracle3.json \
+    --account 5eVyN3Wx88y3d19kvYC9wBhdaZAwNdmKeA3LiXKEm9hH oracle2.json \
+    --account 8ev3ovH86XmD45JU6YhPy6B3ZVZonixLMVGEcw1B6gwC oracle1.json \
+    --account 3Nv1DJdf7163FcB5dFEQGKbw6dUK4HqtwuUcyUf3DWni oracle0.json \
     --bpf-program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s metadata.so \
     --bpf-program SW1TCH7qEPTdLsDHRgPuMQjbQxKdH2aBStViMFnt64f switchboard.so\
     --account A43DyUGA7s8eXPxqEjJY6EBu1KKbNgfxF8h17VAHn13w randomness_queue.json \
